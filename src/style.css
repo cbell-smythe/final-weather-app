@@ -89,3 +89,7 @@ h1 {
   padding-left: 0;
   text-align: center;
 }
+.repository-link {
+  display: block;
+  margin: 0 auto;
+}
